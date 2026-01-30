@@ -1,0 +1,12 @@
+lp-utilization-optimizer/
+  app/
+    main.py
+    ui_config.py
+    sample_data.py
+    optimizer.py
+  tests/
+    test_optimizer.py
+  .gitignore
+  LICENSE
+  README.md
+  requirements.txt
